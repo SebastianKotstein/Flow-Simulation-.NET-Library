@@ -61,7 +61,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="raw\ConnectorClassDiagram.png" />
     <Content Include="raw\EntityBundleClassDiagram.png" />
+    <Content Include="raw\ProcessorClassDiagram.png" />
     <Content Include="raw\SmallConsumableLargePartExampleClassDiagram.png" />
     <Content Include="raw\WorkerClassDiagram.png" />
   </ItemGroup>
