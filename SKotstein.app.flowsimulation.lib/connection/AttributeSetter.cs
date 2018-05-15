@@ -35,6 +35,8 @@ namespace Skotstein.app.flowsimulation.lib.connection
 
 
         public abstract void In(Bundle bundle);
+
+
         
     }
 }
