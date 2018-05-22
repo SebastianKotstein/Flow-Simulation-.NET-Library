@@ -5,6 +5,6 @@ This software library provides a toolkit for designing, simulating and analyzing
 
 The complete documentation can be found in the internal wiki.
 
-Author: Sebastian Kotstein, sebastian.kotstein@reutlingen-university.de
-Date: May 2018
+Author: Sebastian Kotstein, sebastian.kotstein@reutlingen-university.de --
+Date: May 2018 --
 License: GNU General Public License 3.0
